@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dustinturp
-- 👀 I’m interested in maps
-- 🌱 I’m currently learning Go
+- interested in maps
+- Deep in Linux at the moment.
+  
 
 <!---
 dustinturp/dustinturp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
